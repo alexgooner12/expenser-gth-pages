@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: lightgreen;
+  background: skyblue;
+  color: white;
+  height: 100%;
+}
+
+/* html, body, #app, #app>div {
+  height: 100% !important;
+} */
+
+.full-height {
+  height: 100vh;
+  text-align: center;
+  background-color: lightgreen;
+  background: skyblue;
+  color: white;
+}
+
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+@media screen and (max-width: 768px) {
+  .App {
+    padding: 0 10px;
+  }
+}

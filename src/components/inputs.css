@@ -1,0 +1,47 @@
+.input {
+    border-radius: 15px;
+    border: 0;
+    outline: none;
+    padding: 4px 20px;
+    margin-left: 20px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    min-height: 250px;
+    align-items: center;
+}
+
+.table {
+    padding: 10px 0;
+    display: flex;
+    max-width: 400px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+td, th {
+    display: block;
+}
+
+tbody {
+    display: flex;
+    min-width: 150px;
+    justify-content: space-between;
+}
+
+@media only screen and (max-width: 768px) {
+    .form div {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-evenly;
+      min-height: 60px;
+    }
+
+    .input::placeholder {
+        text-align: center;
+    }
+  } 
