@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/alexgooner12/expenser-gth-pages/static/css/main.e15eab71.chunk.css",
-    "main.js": "/alexgooner12/expenser-gth-pages/static/js/main.977955ba.chunk.js",
-    "main.js.map": "/alexgooner12/expenser-gth-pages/static/js/main.977955ba.chunk.js.map",
-    "runtime~main.js": "/alexgooner12/expenser-gth-pages/static/js/runtime~main.fa9f405a.js",
-    "runtime~main.js.map": "/alexgooner12/expenser-gth-pages/static/js/runtime~main.fa9f405a.js.map",
-    "static/js/2.cb41f16e.chunk.js": "/alexgooner12/expenser-gth-pages/static/js/2.cb41f16e.chunk.js",
-    "static/js/2.cb41f16e.chunk.js.map": "/alexgooner12/expenser-gth-pages/static/js/2.cb41f16e.chunk.js.map",
-    "index.html": "/alexgooner12/expenser-gth-pages/index.html",
-    "precache-manifest.55df7340147ded3b9d097423aced2186.js": "/alexgooner12/expenser-gth-pages/precache-manifest.55df7340147ded3b9d097423aced2186.js",
-    "service-worker.js": "/alexgooner12/expenser-gth-pages/service-worker.js",
-    "static/css/main.e15eab71.chunk.css.map": "/alexgooner12/expenser-gth-pages/static/css/main.e15eab71.chunk.css.map"
+    "main.css": "./static/css/main.e15eab71.chunk.css",
+    "main.js": "./static/js/main.ccdcd4aa.chunk.js",
+    "main.js.map": "./static/js/main.ccdcd4aa.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.cb41f16e.chunk.js": "./static/js/2.cb41f16e.chunk.js",
+    "static/js/2.cb41f16e.chunk.js.map": "./static/js/2.cb41f16e.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.cf285b114a6cbfa131045f4a6e9d81ad.js": "./precache-manifest.cf285b114a6cbfa131045f4a6e9d81ad.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.e15eab71.chunk.css.map": "./static/css/main.e15eab71.chunk.css.map"
   }
 }
